@@ -1,0 +1,5 @@
+C:\Users\Bacha\source\repos\ParseRegex\ParseRegex\bin\Debug\ParseRegex.exe
+C:\Users\Bacha\source\repos\ParseRegex\ParseRegex\bin\Debug\ParseRegex.pdb
+C:\Users\Bacha\source\repos\ParseRegex\ParseRegex\obj\Debug\ParseRegex.csprojAssemblyReference.cache
+C:\Users\Bacha\source\repos\ParseRegex\ParseRegex\obj\Debug\ParseRegex.exe
+C:\Users\Bacha\source\repos\ParseRegex\ParseRegex\obj\Debug\ParseRegex.pdb
